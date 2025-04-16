@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | JavaScript Enthusiast | Backend Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;JavaScript+%7C+Node.js+%7C+React+%7C+MongoDB;Clean+Code+%7C+Scalable+Architecture+%7C+MERN+Stack;Lifelong+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;JavaScript+%7C+Node.js+%7C+React+%7C+MongoDB;Clean+Code+%7C+Scalable+Architecture+%7C+MERN+Stack;Lifelong+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -65,8 +65,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:muljanichetan100@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chetankumar191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
