@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Chetan</h1>
-<h3 align="center">🚀 Full Stack Developer | JavaScript Enthusiast | Backend Specialist</h3>
+<h3 align="center">🚀 Full Stack Developer | JavaScript Enthusiast | Backend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;JavaScript+%7C+Node.js+%7C+React+%7C+MongoDB;Clean+Code+%7C+Scalable+Architecture+%7C+MERN+Stack;Lifelong+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
